@@ -7,12 +7,11 @@
                      ░░░╚═╝░░░╚═╝░░╚══════╝╚══════╝░╚════╝░░╚════╝░╚═╝░░░░░╚═╝╚══════╝╚═╝
 
                                             Welcome to my Profile!
-                                            I`m a python developer
-                            Why python?Because other programming langugages sucks!
-                                         (decluding my own language)
-
+                                        I`m a python and c++ developer
+                                  
                                Anyways I`m making my own programming language
-                                         And do more small projects  
+                                           And more small projects  
                                          
+
                                                                    
 ```
