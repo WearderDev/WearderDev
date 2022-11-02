@@ -6,11 +6,13 @@
                      ░░╚██╔╝░╚██╔╝░███████╗███████╗╚█████╔╝╚█████╔╝██║░╚═╝░██║███████╗██╗
                      ░░░╚═╝░░░╚═╝░░╚══════╝╚══════╝░╚════╝░░╚════╝░╚═╝░░░░░╚═╝╚══════╝╚═╝
 
+                                            
+
                                             Welcome to my Profile!
                                         I`m a python and c++ developer
-                                  
-                               Anyways I`m making my own programming language
-                                           And more small projects  
+                                         I know c++ python and html 
+                                          I do each project myself
+                                     
                                          
 
                                                                    
